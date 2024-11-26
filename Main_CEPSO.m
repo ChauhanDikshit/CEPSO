@@ -1,5 +1,5 @@
 % CEPSO: A Feasibility Restoration Particle Swarm Optimizer with Chaotic Maps for Two-stage Fixed-charge Transportation Problems
-% Cite as: Chauhan, Dikshit, Shivani, and Deepika Rani. "A feasibility restoration particle swarm optimizer with chaotic maps for two-stage fixed-charge transportation problems." Swarm and Evolutionary Computation 91 (2024): 101776.
+% Cite as: Shivani and Chauhan, Dikshit and Deepika Rani. "A feasibility restoration particle swarm optimizer with chaotic maps for two-stage fixed-charge transportation problems." Swarm and Evolutionary Computation 91 (2024): 101776.
 
 clc; clear; close all;
 format short
