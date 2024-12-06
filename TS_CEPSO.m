@@ -1,3 +1,4 @@
+%% For chaotic integrations, Please cite this paper: Mirjalili, Seyedali, and Amir H. Gandomi. "Chaotic gravitational constants for the gravitational search algorithm." Applied soft computing 53 (2017): 407-419.
 function [bestfit,gbest,bestvalues]=TS_CEPSO(func_num,max_it,ps,chaosIndex,chValue)
 [lb,ub,D]=benchmark_range(func_num);
 r1=0.129; r2=1-r1;wmax=0.9; wmin=0.2; C_max=1.5;C_min=0.2; % CEPSO Parameters
