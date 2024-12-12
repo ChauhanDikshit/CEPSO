@@ -28,4 +28,4 @@ abstract = {This paper delves into solving the two-stage non-linear fixed-charge
 }
 
 # Thanks
-Dr. Shivani, Dr. Deepika Rani, and Dr. Seyedali Mirjalili (for chaotic code)
+Dr. Shivani, Dr. Deepika Rani, Dr. Anupam Yadav (for PSO code https://www.mathworks.com/matlabcentral/profile/authors/2870277)and Dr. Seyedali Mirjalili (for chaotic code https://www.mathworks.com/matlabcentral/profile/authors/2943818)
