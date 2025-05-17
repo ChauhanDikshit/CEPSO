@@ -152,7 +152,7 @@ This work addresses real-world transportation network challenges like:
 
 ## 🧠 Behind the Name
 
-**CEPSO** = **C**haotic map-Enhanced **E**xtension of **P**article **S**warm **O**ptimizer  
+**CEPSO** = **C**haotic map-**E**xtension of **P**article **S**warm **O**ptimizer  
 Blending swarm intelligence with chaos theory to tackle NP-hard problems efficiently.
 
 ---
