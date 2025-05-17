@@ -122,3 +122,64 @@ Special thanks to:
 ---
 
 ⭐ Feel free to star this repository if you find it useful! Contributions and feedback are welcome.
+
+
+---
+
+## 🌟 Why CEPSO Stands Out
+
+CEPSO is not just another PSO variant—it's a purpose-built solution tailored for a challenging and **largely unexplored domain**:  
+🔹 **Two-stage nonlinear fixed-charge transportation problems** (Two-stage NFCTPs).
+
+### ✨ Novel Contributions at a Glance
+
+- ✅ First to tackle **two-stage NFCTP** using metaheuristics in a systematic way.
+- ✅ Employs **10 different chaotic maps** to significantly improve convergence behavior.
+- ✅ Incorporates **custom feasibility restoration techniques** to ensure real-world applicable solutions:
+  - Negative value correction
+  - Fraction elimination via constraint and ratio adjustment
+- ✅ Features a **robust initialization algorithm** to satisfy supply/demand constraints from the start.
+- ✅ Demonstrated scalability on problems from **35 to 1044 dimensions**.
+
+### 🔍 Real-World Relevance
+
+This work addresses real-world transportation network challenges like:
+- Distribution center capacity planning
+- Routing with nonlinear costs under uncertainty
+- Feasibility in logistics systems under dynamic constraints
+
+---
+
+## 🧠 Behind the Name
+
+**CEPSO** = **C**haotic map-Enhanced **E**xtension of **P**article **S**warm **O**ptimizer  
+Blending swarm intelligence with chaos theory to tackle NP-hard problems efficiently.
+
+---
+
+## 📈 Performance Summary
+
+- 🚀 **Outperforms traditional PSO variants** on multiple benchmarks.
+- 💡 Adaptive exploration–exploitation balance = better solutions, faster.
+- 📉 Convergence analysis reveals CEPSO’s edge in avoiding local optima.
+
+---
+
+## 🔬 Paper Highlights
+
+📘 **Title**: A feasibility restoration particle swarm optimizer with chaotic maps for two-stage fixed-charge transportation problems  
+📍 **Journal**: Swarm and Evolutionary Computation (Elsevier)  
+📅 **Year**: 2024  
+📎 [Read the full paper](https://doi.org/10.1016/j.swevo.2024.101776)
+
+---
+
+## 🧠 Stay Curious
+
+The techniques introduced in CEPSO can inspire future research in:
+- Multi-objective transportation optimization
+- Chaos-enhanced metaheuristics
+- Logistics under uncertainty
+
+---
+
