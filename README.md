@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 About the Project
+## 📌 About the Paper
 
 **CEPSO** is a novel optimization algorithm designed to solve the **two-stage non-linear fixed-charge transportation problem (NFCTP)**—a complex and **NP-hard** problem. In NFCTP, each arc incurs both fixed and variable costs, where the variable cost increases quadratically with the transported units. This results in significant computational challenges, especially in large-scale scenarios.
 
